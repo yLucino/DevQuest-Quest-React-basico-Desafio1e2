@@ -1,0 +1,17 @@
+.box-buttons {
+  display: flex;
+  margin-top: 20px;
+}
+
+.button button {
+  padding: 7px 10px;
+  border-radius: 25px;
+  border: none;
+  margin-right: 15px;
+  transition: .3s;
+}
+
+.button button:hover {
+  cursor: pointer;
+  background-color: #b6b6b6;
+}
